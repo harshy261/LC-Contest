@@ -1,0 +1,1 @@
+https://leetcode.com/contest/weekly-contest-302/problems/query-kth-smallest-trimmed-number/

@@ -1,0 +1,2 @@
+https://leetcode.com/contest/weekly-contest-302/problems/minimum-deletions-to-make-array-divisible/
+
